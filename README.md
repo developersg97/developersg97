@@ -12,7 +12,7 @@ Email Me 👉 ✉️ ** gsupriya062@gmail.com ** For Project or Anything Else. �
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/supriya-ghosh-developer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsupriya062@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supriya-ghosh-developer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsupriya062@gmail.com) 
 ## 💡 Portfolio:
 [![Portfolio](https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png)](https://www.linkedin.com/in/supriya-ghosh-developer/)
 
